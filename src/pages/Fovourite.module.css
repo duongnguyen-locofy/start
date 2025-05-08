@@ -1,0 +1,906 @@
+.fovouriteChild {
+  width: 1601px;
+  height: 1200px;
+  position: relative;
+  background-color: var(--color-palegoldenrod);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.wwwnickelfoxcom {
+  text-decoration: none;
+  position: relative;
+  color: inherit;
+  z-index: 1;
+}
+.backgroundIcon,
+.backgroundIcon1 {
+  position: absolute;
+  margin: 0 !important;
+}
+.backgroundIcon {
+  width: 1603px;
+  height: 417px;
+  top: 20px;
+  left: -2px;
+  z-index: 2;
+}
+.backgroundIcon1 {
+  width: 1733px;
+  height: 450.8px;
+  bottom: -68.9px;
+  left: -135px;
+  z-index: 1;
+}
+.n,
+.u,
+.y {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 50px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 3;
+}
+.n,
+.u {
+  z-index: 1;
+}
+.n {
+  z-index: 2;
+}
+.frameWrapper,
+.yParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.yParent {
+  align-self: stretch;
+  gap: 131px;
+}
+.frameWrapper {
+  width: 116px;
+  padding: 147px 0 0;
+  box-sizing: border-box;
+}
+.youngsFavouriteChild {
+  width: 107.6px;
+  height: 18.1px;
+  position: absolute;
+  margin: 0 !important;
+  top: 78.6px;
+  left: 236.9px;
+}
+.youngsFavourite1 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 28.3px;
+  font-weight: 900;
+  z-index: 1;
+}
+.youngsFavouriteItem {
+  width: 12.5px;
+  height: 13.6px;
+  position: absolute;
+  margin: 0 !important;
+  right: 472.8px;
+  bottom: 483.3px;
+  border-radius: 50%;
+  background-color: #ece8e7;
+  z-index: 1;
+}
+.componentParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45.3px;
+  max-width: 100%;
+}
+.downloadApp {
+  margin: 0;
+}
+.downloadAppContainer {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 150%;
+  font-weight: 900;
+}
+.get30OffContainer {
+  position: relative;
+  font-size: var(--font-size-sm-6);
+  letter-spacing: -0.04em;
+  line-height: 19.8px;
+  font-weight: 500;
+  color: #7c7c7c;
+}
+.downloadAppGetTheVoucherParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23.2px;
+  flex-shrink: 0;
+}
+.frameChild {
+  height: 40.2px;
+  width: 115.5px;
+  position: relative;
+  border-radius: var(--br-7xs-7);
+  object-fit: cover;
+}
+.frameParent1,
+.frameWrapper1,
+.rectangleParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangleParent {
+  flex-direction: row;
+  gap: 10.7px;
+  flex-shrink: 0;
+}
+.frameParent1,
+.frameWrapper1 {
+  flex-direction: column;
+}
+.frameParent1 {
+  gap: 36.8px;
+}
+.frameWrapper1 {
+  padding: 0 0 83px;
+}
+.frameInner {
+  width: 19.2px;
+  height: 19.2px;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-khaki);
+  flex-shrink: 0;
+}
+.ellipseWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-9xs-9);
+}
+.ellipseDiv,
+.frameChild1,
+.frameChild2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0 solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.frameChild1,
+.frameChild2 {
+  z-index: 1;
+}
+.frameChild2 {
+  top: 27.2px;
+  left: 23.7px;
+  width: 249.1px;
+  height: 246px;
+  z-index: 2;
+}
+.ellipseGroup {
+  position: absolute;
+  top: 28.3px;
+  left: 27.8px;
+  width: 304px;
+  height: 300.2px;
+}
+.frameChild3,
+.frameChild4,
+.frameChild5 {
+  position: absolute;
+  top: 0;
+  left: 319.9px;
+  border-radius: 50%;
+  background-color: var(--color-khaki);
+  width: 28.3px;
+  height: 28.3px;
+  z-index: 1;
+}
+.frameChild4,
+.frameChild5 {
+  top: 8.5px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 12.5px;
+  height: 13.6px;
+  z-index: 2;
+}
+.frameChild5 {
+  top: 311.3px;
+  left: 351px;
+  width: 9.6px;
+  height: 9.6px;
+  z-index: 1;
+}
+.ellipseParent {
+  height: 356.1px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.downloadContainerInner {
+  position: absolute;
+  top: 22.7px;
+  left: 0;
+  width: 360.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameChild6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+}
+.appsIcon {
+  position: absolute;
+  top: 4.5px;
+  left: 4.5px;
+  width: 11.9px;
+  height: 11.9px;
+  overflow: hidden;
+  z-index: 1;
+}
+.ellipseContainer,
+.ellipseIcon {
+  height: 20.8px;
+  width: 20.8px;
+  position: relative;
+}
+.ellipseIcon {
+  width: 22.3px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+.frameParent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.matchYourStyle {
+  position: relative;
+  display: inline-block;
+  min-width: 108.9px;
+  z-index: 1;
+}
+.vectorIcon {
+  width: 35.1px;
+  height: 7.2px;
+  position: relative;
+}
+.frameParent3,
+.matchYourStyleParent,
+.vectorWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vectorWrapper {
+  flex-direction: column;
+  padding: 9.4px 0 0;
+  margin-left: -35.1px;
+  position: relative;
+}
+.frameParent3,
+.matchYourStyleParent {
+  flex-direction: row;
+}
+.frameParent3 {
+  width: 156px;
+  flex-direction: column;
+  gap: 10.9px;
+}
+.mobileAppChild,
+.rectangleDiv {
+  width: 190.6px;
+  height: 44.1px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.rectangleDiv {
+  height: 19.8px;
+  width: 155.9px;
+  border-radius: var(--br-5xs-9);
+  background-color: var(--color-gainsboro-200);
+}
+.search,
+.searchIcon {
+  position: relative;
+  z-index: 1;
+}
+.searchIcon {
+  height: 11.9px;
+  width: 11.9px;
+}
+.search {
+  display: inline-block;
+  min-width: 33.7px;
+}
+.rectangleGroup {
+  width: 155.9px;
+  border-radius: var(--br-5xs-9);
+  background-color: var(--color-gainsboro-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 6px 3.4px;
+  box-sizing: border-box;
+  gap: 2.4px;
+  font-size: 7.9px;
+  color: #6e6f72;
+}
+.frameChild7 {
+  height: 15.8px;
+  width: 67.3px;
+  position: relative;
+  border-radius: var(--br-6xs-9);
+  background-color: var(--color-khaki);
+  display: none;
+}
+.trendingNow {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  z-index: 1;
+}
+.rectangleContainer {
+  width: 67.3px;
+  border-radius: var(--br-6xs-9);
+  background-color: var(--color-khaki);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-5) 0 var(--padding-11xs-4);
+  box-sizing: border-box;
+}
+.charmingSlimBrunetteWomanPIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs-9);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.polkadotRedDress,
+.rs149900 {
+  position: relative;
+  display: inline-block;
+}
+.polkadotRedDress {
+  font-weight: 500;
+  min-width: 71.3px;
+}
+.rs149900 {
+  width: 65.8px;
+  color: var(--color-gray-400);
+  white-space: pre-wrap;
+  z-index: 1;
+}
+.charmingSlimBrunetteWomanPParent,
+.redDressInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.redDressInfo {
+  flex-shrink: 0;
+}
+.charmingSlimBrunetteWomanPParent {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-6xs-3);
+  text-align: left;
+  font-size: var(--font-size-6xs-9);
+}
+.fullLengthViewGladWomanDaIcon {
+  height: 102.6px;
+  width: 72.8px;
+  position: relative;
+  border-radius: var(--br-3xs-9);
+  object-fit: cover;
+  display: none;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  height: 12.9px;
+  width: 13.4px;
+  position: relative;
+  z-index: 2;
+}
+.vectorIcon2 {
+  height: 11.9px;
+  width: 11.9px;
+}
+.fullLengthViewGladWomanDaParent {
+  align-self: stretch;
+  border-radius: var(--br-3xs-9);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 90.5px var(--padding-sm) 0 0;
+  gap: var(--gap-xl);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frameParent6 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13.1px;
+}
+.frameChild8 {
+  height: 15.8px;
+  width: 35.1px;
+  position: relative;
+  border-radius: var(--br-6xs-9);
+  background-color: var(--color-gainsboro-100);
+  display: none;
+}
+.all {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frameChild9,
+.rectangleParent1 {
+  border-radius: var(--br-6xs-9);
+  background-color: var(--color-gainsboro-100);
+  width: 35.1px;
+}
+.rectangleParent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-5) 0 var(--padding-11xs-4);
+  box-sizing: border-box;
+}
+.frameChild9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 15.8px;
+}
+.newTxt {
+  line-break: anywhere;
+  width: 100%;
+}
+.new {
+  position: absolute;
+  top: 0.9px;
+  left: 11.4px;
+  font-weight: 500;
+  display: flex;
+  align-items: flex-end;
+  width: 13.4px;
+  z-index: 1;
+}
+.rectangleParent2 {
+  height: 18.9px;
+  flex: 1;
+  position: relative;
+}
+.frameParent8,
+.frameWrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameParent8 {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.frameWrapper2 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs) 0 0;
+  text-align: center;
+}
+.slenderGirlGreatMoodIsHavIcon {
+  height: 102.6px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-3xs-9);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.slenderGirlGreatMoodIsHavWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.stripedPinkDress {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.frameParent9,
+.pinkDressInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pinkDressInfo {
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.frameParent9 {
+  gap: var(--gap-6xs-3);
+  font-size: var(--font-size-6xs-9);
+  color: var(--color-black);
+}
+.curlyWomanJumpingPurpleBacIcon {
+  height: 102.5px;
+  width: 72.8px;
+  position: relative;
+  border-radius: var(--br-3xs-9);
+  object-fit: cover;
+  display: none;
+}
+.frameChild10 {
+  height: 7.4px;
+  width: 7.4px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #ea1701;
+  z-index: 3;
+}
+.vectorIcon3 {
+  height: 12.9px;
+  width: 13.4px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -8.9px;
+  left: -10.9px;
+  z-index: 2;
+}
+.empty {
+  position: relative;
+  font-weight: 600;
+  z-index: 4;
+}
+.vectorParent {
+  flex-direction: row;
+  position: relative;
+  margin-left: -5.4px;
+}
+.ellipseParent1,
+.vectorContainer,
+.vectorParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipseParent1 {
+  flex-direction: row;
+  padding: 0 4px 0 0;
+}
+.vectorContainer {
+  flex-direction: column;
+  padding: var(--padding-9xs-9) 0 0;
+}
+.curlyWomanJumpingPurpleBacParent {
+  width: 72.8px;
+  border-radius: var(--br-3xs-9);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 86.6px 3px 0 16px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.frameParent7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 11.6px;
+  text-align: left;
+  color: var(--color-gray-100);
+}
+.frameParent5,
+.mobileApp {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent5 {
+  width: 157px;
+  flex-direction: row;
+  gap: var(--gap-9xs-9);
+  text-align: center;
+  font-size: var(--font-size-7xs-9);
+  font-family: var(--font-poppins);
+}
+.mobileApp {
+  position: absolute;
+  top: 0;
+  left: 88.3px;
+  box-shadow: 0 2.3px 35.7px rgba(0, 0, 0, 0.25);
+  border-radius: 19.8px;
+  background-color: var(--color-white);
+  border: 12.8px solid #c2c8da;
+  box-sizing: border-box;
+  width: 211.2px;
+  height: 427.5px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 22.3px 13px 13.3px var(--padding-sm);
+  gap: 9.4px;
+  z-index: 3;
+}
+.downloadContainer {
+  height: 401.9px;
+  flex: 1;
+  position: relative;
+  min-width: 235px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.frameParent2 {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  min-width: 379.8px;
+  row-gap: var(--gap-xl);
+  font-size: 12.9px;
+  font-family: var(--font-inter);
+}
+.frameContainer,
+.frameDiv,
+.frameParent2 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frameDiv {
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frameContainer {
+  width: 942.3px;
+  padding: 0 51px;
+  box-sizing: border-box;
+}
+.frameContainer,
+.frameGroup,
+.youngsFavourite,
+.youngsFavouriteInner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: 91.1px;
+  max-width: 100%;
+}
+.youngsFavourite,
+.youngsFavouriteInner {
+  box-sizing: border-box;
+}
+.youngsFavouriteInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 15px;
+  max-width: 100%;
+}
+.youngsFavourite {
+  flex: 1;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 60.5px var(--padding-6xl) 126.2px 57px;
+  position: relative;
+  gap: 99.5px;
+  max-width: calc(100% - 180px);
+  z-index: 3;
+  font-size: var(--font-size-8xl-2);
+  color: var(--color-black);
+}
+.frameParent {
+  height: 1122px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 161px;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-111xl);
+  color: var(--color-gold);
+  font-family: var(--font-poppins);
+}
+.fovourite,
+.fovouriteInner,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.fovouriteInner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 var(--padding-6xl);
+  max-width: 100%;
+}
+.fovourite {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-palegoldenrod);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 52px var(--padding-43xl) 0;
+  gap: 3px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 20px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1200px) {
+  .componentParent {
+    flex-wrap: wrap;
+  }
+  .youngsFavourite {
+    gap: 50px;
+    padding-left: 28px;
+    padding-top: 39px;
+    padding-bottom: 82px;
+    box-sizing: border-box;
+  }
+  .frameParent {
+    height: auto;
+    padding-bottom: 105px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .n,
+  .u,
+  .y {
+    font-size: var(--font-size-33xl);
+    line-height: 30px;
+  }
+  .frameWrapper {
+    padding-top: 96px;
+    box-sizing: border-box;
+  }
+  .frameWrapper1 {
+    flex: 1;
+  }
+  .frameParent2 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frameDiv {
+    flex-wrap: wrap;
+  }
+  .frameContainer {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .frameGroup {
+    gap: 46px;
+  }
+  .fovourite {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frameWrapper {
+    display: none;
+    padding-top: var(--padding-43xl);
+    box-sizing: border-box;
+  }
+  .componentParent {
+    gap: var(--gap-4xl);
+  }
+  .frameParent2 {
+    flex-wrap: wrap;
+  }
+  .frameGroup {
+    gap: var(--gap-4xl);
+  }
+  .youngsFavourite {
+    gap: 25px;
+    padding-top: var(--padding-6xl);
+    padding-bottom: 53px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .frameParent {
+    gap: 32px;
+    padding-bottom: 68px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .wwwnickelfoxcom {
+    font-size: 16px;
+  }
+  .n,
+  .u,
+  .y {
+    font-size: var(--font-size-13xl);
+    line-height: 20px;
+  }
+  .downloadAppContainer,
+  .youngsFavourite1 {
+    font-size: var(--font-size-3xl);
+    line-height: 23px;
+  }
+  .downloadAppContainer {
+    line-height: 33px;
+  }
+  .rectangleParent {
+    flex-wrap: wrap;
+  }
+  .frameParent1 {
+    gap: 18px;
+  }
+  .frameParent {
+    gap: 16px;
+  }
+}
